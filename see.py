@@ -3,7 +3,7 @@ from math import ceil
 
 con = mariadb.connect(
     user="root",
-    password="hacker",
+    password="YOUR PASSWORD",
     host="localhost",
     port=3360,
     database="test1"
